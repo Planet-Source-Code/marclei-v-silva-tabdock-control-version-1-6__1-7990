@@ -1,0 +1,9 @@
+cSplitDDC = 66, 81, 509, 504, C
+modApi32 = 54, 52, 527, 475, C
+TDockForm = 110, 110, 534, 430, 
+TDockForms = 154, 154, 512, 474, C
+TEnums = 130, 130, 641, 462, C
+TTabDock = 88, 88, 512, 408, C, 88, 88, 564, 408, C
+TTabDockHosts = 110, 110, 615, 554, C
+modBorder = 130, 130, 654, 483, C
+TTabDockHost = 104, 104, 545, 485, Z
